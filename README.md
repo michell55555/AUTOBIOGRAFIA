@@ -16,7 +16,7 @@
 
   <hr>
 
-  <h2><font color=#b30059>🎨 Hobbies</font></h2>
+  <h2> <font color="#b30059">🎨 Hobbies</font></h2>
   <ul>
     <li>🛼 Patinar</li>
     <li>🚶‍♀️ Salir a pasear</li>
