@@ -1,4 +1,8 @@
 <HTML>
+  <HEAD>
+  <link rel="stylesheet" href="style.css">
+  </HEAD>
+  
 <body bgcolor="#d0eafc">
 
   <h1><b>Biografía de Michell Dayana Badillo Salazar</b></h1>
