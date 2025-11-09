@@ -1,6 +1,5 @@
 <HTML>
   <HEAD>
-  <link rel="stylesheet" href="style.css">
   </HEAD>
 <body style="bgcolor:#d0eafc; font-family: Arial,sans-serif; color#333;">
 
