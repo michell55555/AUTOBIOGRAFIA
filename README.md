@@ -1,7 +1,7 @@
 <HTML>
   <HEAD>
   </HEAD>
-<body style="background-color:#d0eafc; font-family: Arial,sans-serif; color#333;">
+<body style="background-color:#d0eafc ;font-family: Arial,sans-serif; color:#333;">
 
   <h1><b>Biografía de Michell Dayana Badillo Salazar</b></h1>
 
